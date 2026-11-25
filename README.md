@@ -1,2 +1,2 @@
-# HomeLabAD
-Active Directory Home Lab project (COMING SOON!!)
+# Active Directory Home Lab project
+ REPORT PAGE COMING SOON!!
